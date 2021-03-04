@@ -1,0 +1,1 @@
+function alpha = BFGS_Alpha()
